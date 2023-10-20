@@ -29,4 +29,12 @@
 ![14](https://github.com/saul147/Quimica-G7/assets/148402545/31644a99-5f12-41c6-b748-a182869c24b2)
 # 15. Un químico ha sintetizado un compuesto gaseoso amarillo verdoso de cloro y oxígeno, y encuentra que su densidad es de 7.71 g/L a 36 ºC y 2.88 atm. Calcule la masa molar del compuesto y determine su fórmula molecular.
 ![15](https://github.com/saul147/Quimica-G7/assets/148402545/3fd26828-b09f-41a4-a00c-ba0523896524)
+# 16. La densidad de un compuesto orgánico gaseoso es de 3.38 g/L a 40 ºC y 1.97 atm. ¿Cuál es su masa molar?
+![16](https://github.com/saul147/Quimica-G7/assets/148402545/a6bb093c-e1ed-470a-9382-68ded966383d)
+# 17. El análisis químico de un compuesto gaseoso mostró que contiene 33.0% de silicio y 67.0% de flúor en masa. A 35 ºC, 0.210 L del compuesto ejercen una presión de 1.70 atm. Si la masa de 0.210 L del gas fue de 2.38 g, calcule la fórmula molecular del compuesto.
+![17](https://github.com/saul147/Quimica-G7/assets/148402545/824377c4-fa75-47a3-b5f8-0adf5b0de129)
+# 18. Un compuesto gaseoso está formado por 78.14% de boro y 21.86% de hidrógeno. A 27 ºC, 74.3 mL del gas ejercen una presión de 1.12 atm. Si la masa del gas fue de 0.0934 g, ¿cuál es su fórmula molecular?
+![18](https://github.com/saul147/Quimica-G7/assets/148402545/7dc1228b-3d1e-4f32-bd35-cffcc83f60f9)
+
+
 
